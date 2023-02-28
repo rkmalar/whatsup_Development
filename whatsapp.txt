@@ -7,3 +7,5 @@ chat screen
 Last screen
 
 Attachement
+
+Hiding the last seen
