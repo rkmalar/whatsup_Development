@@ -9,3 +9,7 @@ Last screen
 Attachement
 
 Hiding the last seen
+
+Adding the audio call feature
+
+Adding the video call feature
